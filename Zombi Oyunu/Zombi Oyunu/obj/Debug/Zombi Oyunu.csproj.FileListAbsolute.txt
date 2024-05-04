@@ -1,0 +1,10 @@
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\Zombi Oyunu\Zombi Oyunu\bin\Debug\Zombi Oyunu.exe.config
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\Zombi Oyunu\Zombi Oyunu\bin\Debug\Zombi Oyunu.exe
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\Zombi Oyunu\Zombi Oyunu\bin\Debug\Zombi Oyunu.pdb
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\Zombi Oyunu\Zombi Oyunu\obj\Debug\Zombi Oyunu.csproj.AssemblyReference.cache
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\Zombi Oyunu\Zombi Oyunu\obj\Debug\Zombi_Oyunu.Form1.resources
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\Zombi Oyunu\Zombi Oyunu\obj\Debug\Zombi_Oyunu.Properties.Resources.resources
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\Zombi Oyunu\Zombi Oyunu\obj\Debug\Zombi Oyunu.csproj.GenerateResource.cache
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\Zombi Oyunu\Zombi Oyunu\obj\Debug\Zombi Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\Zombi Oyunu\Zombi Oyunu\obj\Debug\Zombi Oyunu.exe
+C:\Users\ertan\Desktop\Yazılım\deneme\C#\Deniyorum\Zombi Oyunu\Zombi Oyunu\obj\Debug\Zombi Oyunu.pdb
